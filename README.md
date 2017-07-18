@@ -1,2 +1,2 @@
 # Python-Test
-A simple test of python syntax
+Some simple python drills
